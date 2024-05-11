@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JapaneseFun
+- 👀 My friends ...@warasugitewara
+- 🌱 I’m currently learning ...java;Python;Typescript etc...
